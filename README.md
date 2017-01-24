@@ -1,25 +1,17 @@
-# ReduxSimpleStarter
+## Simple CMS App built using React
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-###Getting Started###
 
-There are two methods for getting started with this repo.
+### Getting Started ###
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+1) Download this repo
+2) Navigate to this repo in the terminal
+3) Enter the following commands
 
 ```
 	> npm install
 	> npm start
+    
 ```
+
+Open browser and goto -> http://localhost:8080/
