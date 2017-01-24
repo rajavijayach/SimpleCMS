@@ -1,4 +1,4 @@
-## Simple CMS App built using React
+## Simple CMS App built using React and Redux
 
 
 
